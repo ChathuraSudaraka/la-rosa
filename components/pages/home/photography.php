@@ -1,5 +1,5 @@
 <!-- photography area start -->
-<div class="photography-area pb-120">
+<!-- <div class="photography-area pb-120">
     <div class="container">
         <div class="lv-photography-wrap-1">
             <div class="row">
@@ -96,7 +96,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- photography area end -->
 <!-- cta area start -->
 <div class="cta-area bg-default pt-110 pb-115 lv-bg-opacity lv-opacity-5" data-background="/assets/img/bg/cta-bg.jpg">
